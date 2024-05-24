@@ -1,0 +1,33 @@
+﻿{
+	"version": 1716521986,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player_spr-sheet0.png",
+		"images/player_spr-sheet1.png",
+		"images/enemy_spr-sheet0.png",
+		"images/playerbullet_spr-sheet0.png",
+		"images/playerspawnarea_spr-sheet0.png",
+		"images/crosshair_spr-sheet0.png",
+		"images/gunshot_spr-sheet0.png",
+		"images/background_spr-sheet0.png",
+		"images/menubackground_spr-sheet0.png",
+		"images/tree_spr-sheet0.png",
+		"images/menubackground_spr2-sheet0.png",
+		"images/upgradesbackground_spr-sheet0.png",
+		"images/troopsize_spr-sheet0.png",
+		"images/movement_spr-sheet0.png",
+		"images/health_spr-sheet0.png",
+		"images/damage_spr-sheet0.png",
+		"images/firerate_spr-sheet0.png",
+		"images/fade_sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
